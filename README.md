@@ -1,6 +1,6 @@
 # vue-elm-admin
 
-> vue + vuex + vue-cli + vue-router element-ui
+> vue + vuex + vue-cli + vue-router + element-ui
 
 ## Build Setup
 
